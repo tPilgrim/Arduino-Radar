@@ -7,7 +7,7 @@ The system uses ultrasonic sensors mounted on a servo motor to measure distances
 
 <p float="left">
 <img src="Images/1.png" width="350"/>
-  <img src="Images/Schematic.png" width="350"/>
+  <img src="Images/Schematic.jpeg" width="350"/>
 </p>
 
 ## 🎯 Features
