@@ -6,8 +6,8 @@ This project implements a **radar-like system** using an Arduino-based setup. It
 The system uses ultrasonic sensors mounted on a servo motor to measure distances and display real-time feedback through colored LEDs.
 
 <p float="left">
-<img src="Images/1.jpeg" width="350"/>
-  <img src="Images/Schematic.png" width="350"/>
+<img src="Images/1.jpeg" height="400"/>
+  <img src="Images/Schematic.png" height="400"/>
 </p>
 
 ## 🎯 Features
